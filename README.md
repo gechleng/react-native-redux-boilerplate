@@ -4,10 +4,10 @@
 
 1.Download project
 
-  git clone git@github.com:gechleng/react-native-redux-boilerplate.git
+  > git clone git@github.com:gechleng/react-native-redux-boilerplate.git
 
 2.Install dependencies
 
-  yarn or npm i
+  > yarn or npm i
 
-  Run project
+  > Run project
